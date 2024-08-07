@@ -13,7 +13,13 @@
 > CADET HASNAIN - email: 
 
 ----
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ## Overview of our Repository
 <img align="left" alt="NAUT" width="350" src="https://github.com/user-attachments/assets/5aab169c-a433-480e-84c6-989e97a1a890">
 
