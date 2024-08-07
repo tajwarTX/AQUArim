@@ -14,8 +14,9 @@
 
 ----
 
-## Overview of our Repository
 <img align="left" alt="NAUT" width="200" src="https://github.com/user-attachments/assets/5aab169c-a433-480e-84c6-989e97a1a890">
+
+## Overview of our Repository
 
  * `experiments` - codes that were used to do experiments.  
  * `models` - the 3D printable files used in our robot.
