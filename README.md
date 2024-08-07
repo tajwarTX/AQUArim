@@ -81,5 +81,10 @@ Bangladesh's dream of becoming a _"Smart Bangladesh"_ faces hurdles due to its p
 > [!IMPORTANT]
 > #### Example: Dasherkandi plant
 > The existing sewage treatment system is outdated and overwhelmed by the growing population. Dhaka's recently built Dasherkandi plant, the largest in South Asia, can only handle a small portion (around 20%) of the city's sewage.
+----
+----
+
+## ***3. Project Description:***
+Trash Wizard, a sewage clearing robot with circular water jets and ROS navigation tackles sanitation challenges in Bangladesh's "Smart Bangladesh" vision. By preventing blockages and clearing stagnant water, it not only improves hygiene and efficiency but also helps prevent flood problems in urban areas. This showcases technological innovation, reduces cleaning costs, improves public health, and utilizes a sustainable water-based method. This versatile robot can create new jobs and contribute to a cleaner, healthier, and flood-resilient Bangladesh.
 
 
