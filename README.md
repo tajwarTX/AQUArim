@@ -31,6 +31,25 @@
 ----
 ----
 $${\color{red} hoooho}$$
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+
+<span style="color: red;">text</span>
+
 ## 1. Problem Statement: _Why this Idea?_
 Bangladesh grapples with a severe sewage problem, especially in dense cities. The outdated system, strained by a booming population, simply can't handle the wastewater. Most sewage flows untreated into rivers and canals, contaminating the water with harmful bacteria and threatening public health. This pollution harms aquatic life and endangers the livelihoods of those who depend on these waterways. While Bangladesh is building new treatment facilities, significant investment and upgrades are needed to overcome this challenge.
 Bangladesh's dream of becoming a "Smart Bangladesh" faces hurdles due to its persistent sewage woes. Untreated sewage clogs drains and canals, hindering their ability to effectively channel rainwater during heavy monsoon seasons. This overflow contributes to flooding, a recurring nightmare in Bangladesh. Flooding disrupts infrastructure, displaced people, and damages property, stalling progress towards a smart, resilient nation. Investing in proper sewage treatment is crucial not just for public health but also for Bangladesh's smart city ambitions.
