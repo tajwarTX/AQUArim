@@ -2,7 +2,7 @@
 
 ![main name banner icclm](https://github.com/user-attachments/assets/db33ed1b-8e17-4d06-b3c5-0e979dd02086)
 
-### This repository is the collection of engineering materials pertaining to AQUARIM, a self-driving vehicle model developed by Team mechaScratch_404, participating in the 2023 WRO International Final (Future Engineers) from BANGLADESH.
+### This repository contains the engineering materials for AQUARIM, a self-driving sewage cleaning robot developed by Team X Fanatic. AQUARIM is designed to support the vision of a smart Bangladesh by addressing the persistent issue of urban flooding in Dhaka. Even minor rainfall can cause significant flooding in this developed city, disrupting daily life, halting supply distribution, and preventing government employees and students from commuting. Such disruptions hinder the progress toward a smart Bangladesh. Team X Fanatic is proud to present AQUARIM at the 2024 ICCLM (ICT Olympiad) representing Mirzapur Cadet College.
 ----
 
 ## Team Members:
