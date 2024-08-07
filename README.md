@@ -77,7 +77,8 @@ Bangladesh's dream of becoming a _"Smart Bangladesh"_ faces hurdles due to its p
  *	Limited Mitigation Strategies: Few resources to invest in private sanitation or relocate to safer areas.
 
 
-> [!Example: Dasherkandi plant]
+> [!IMPORTANT]
+> #### Example: Dasherkandi plant
 > The existing sewage treatment system is outdated and overwhelmed by the growing population. Dhaka's recently built Dasherkandi plant, the largest in South Asia, can only handle a small portion (around 20%) of the city's sewage.
 
 
