@@ -6,11 +6,11 @@
 ----
 
 ## Team Members:
-> CADET TAJWAR  - email: tajwar185@gmail.com
+> CADET TAJWAR  (3056)- email: tajwar185@gmail.com
 
-> CADET ADNAN   - email:
+> CADET ADNAN   (3042)- email:
 
-> CADET HASNAIN - email: 
+> CADET HASNAIN (3032)- email: 
 
 ----
 
