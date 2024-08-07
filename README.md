@@ -75,7 +75,8 @@ Bangladesh's dream of becoming a _"Smart Bangladesh"_ faces hurdles due to its p
  *	Displacement: Floods caused by clogged drains disproportionately affect these communities, displacing them and destroying belongings.
  *	Livelihoods: Sewage pollution harms fish populations, impacting food security and income for many.
  *	Limited Mitigation Strategies: Few resources to invest in private sanitation or relocate to safer areas.
-
+----
+----
 
 > [!IMPORTANT]
 > #### Example: Dasherkandi plant
