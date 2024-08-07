@@ -44,9 +44,6 @@ $${\color{red} hoooho}$$
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
 
-> [!CAUTION]
-> Negative potential consequences of an action.
-
 
 ```
 git status
@@ -78,3 +75,9 @@ Bangladesh's dream of becoming a _"Smart Bangladesh"_ faces hurdles due to its p
  *	Displacement: Floods caused by clogged drains disproportionately affect these communities, displacing them and destroying belongings.
  *	Livelihoods: Sewage pollution harms fish populations, impacting food security and income for many.
  *	Limited Mitigation Strategies: Few resources to invest in private sanitation or relocate to safer areas.
+
+
+> [!Example: Dasherkandi plant]
+> The existing sewage treatment system is outdated and overwhelmed by the growing population. Dhaka's recently built Dasherkandi plant, the largest in South Asia, can only handle a small portion (around 20%) of the city's sewage.
+
+
