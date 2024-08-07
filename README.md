@@ -60,20 +60,21 @@ Bangladesh grapples with a severe sewage problem, especially in dense cities. Th
 Bangladesh's dream of becoming a _"Smart Bangladesh"_ faces hurdles due to its persistent sewage woes. Untreated sewage clogs drains and canals, hindering their ability to effectively channel rainwater during heavy monsoon seasons. This overflow contributes to flooding, a recurring nightmare in Bangladesh. Flooding disrupts infrastructure, displaced people, and damages property, stalling progress towards a smart, resilient nation. Investing in proper sewage treatment is crucial not just for public health but also for Bangladesh's smart city ambitions.
 
 ## ***2. Impact of damage in Bangladesh***
-I.	Wealthy:
-•	Potential Issues: Unpleasant odors, clogged drains, property damage from floods (indirect).
-•	Mitigation Strategies: Private septic tanks, residence in better-drained areas.
 
-II.	Middle Class:
-•	Health Risks: Increased risk of waterborne diseases (diarrhea, dysentery) due to reliance on shared sanitation or older septic systems.
-•	Water Quality: Sewage contamination can affect piped water quality, further jeopardizing health.
-•	Mitigation Strategies: Boiling water, improved hygiene practices (may not fully eliminate risk).
+# I.	Wealthy:
+ *	Potential Issues: Unpleasant odors, clogged drains, property damage from floods (indirect).
+ *	Mitigation Strategies: Private septic tanks, residence in better-drained areas.
+
+# II.	Middle Class:
+ *	Health Risks: Increased risk of waterborne diseases (diarrhea, dysentery) due to reliance on shared sanitation or older septic systems.
+ *	Water Quality: Sewage contamination can affect piped water quality, further jeopardizing health.
+ *	Mitigation Strategies: Boiling water, improved hygiene practices (may not fully eliminate risk).
 
 
 
 
-III.	Poor & Vulnerable (Slums/Informal Settlements):
-•	Health: Highest risk of waterborne diseases due to overcrowded and poorly-maintained sanitation facilities. Sewage overflow can seep into homes, creating a constant health hazard.
-•	Displacement: Floods caused by clogged drains disproportionately affect these communities, displacing them and destroying belongings.
-•	Livelihoods: Sewage pollution harms fish populations, impacting food security and income for many.
-•	Limited Mitigation Strategies: Few resources to invest in private sanitation or relocate to safer areas.
+# III.	Poor & Vulnerable (Slums/Informal Settlements):
+ *	Health: Highest risk of waterborne diseases due to overcrowded and poorly-maintained sanitation facilities. Sewage overflow can seep into homes, creating a constant health hazard.
+ *	Displacement: Floods caused by clogged drains disproportionately affect these communities, displacing them and destroying belongings.
+ *	Livelihoods: Sewage pollution harms fish populations, impacting food security and income for many.
+ *	Limited Mitigation Strategies: Few resources to invest in private sanitation or relocate to safer areas.
