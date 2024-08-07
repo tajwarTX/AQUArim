@@ -61,11 +61,11 @@ Bangladesh's dream of becoming a _"Smart Bangladesh"_ faces hurdles due to its p
 
 ## ***2. Impact of damage in Bangladesh***
 
-# I.	Wealthy:
+### I.	Wealthy:
  *	Potential Issues: Unpleasant odors, clogged drains, property damage from floods (indirect).
  *	Mitigation Strategies: Private septic tanks, residence in better-drained areas.
 
-# II.	Middle Class:
+### II.	Middle Class:
  *	Health Risks: Increased risk of waterborne diseases (diarrhea, dysentery) due to reliance on shared sanitation or older septic systems.
  *	Water Quality: Sewage contamination can affect piped water quality, further jeopardizing health.
  *	Mitigation Strategies: Boiling water, improved hygiene practices (may not fully eliminate risk).
@@ -73,7 +73,7 @@ Bangladesh's dream of becoming a _"Smart Bangladesh"_ faces hurdles due to its p
 
 
 
-# III.	Poor & Vulnerable (Slums/Informal Settlements):
+### III.	Poor & Vulnerable (Slums/Informal Settlements):
  *	Health: Highest risk of waterborne diseases due to overcrowded and poorly-maintained sanitation facilities. Sewage overflow can seep into homes, creating a constant health hazard.
  *	Displacement: Floods caused by clogged drains disproportionately affect these communities, displacing them and destroying belongings.
  *	Livelihoods: Sewage pollution harms fish populations, impacting food security and income for many.
