@@ -14,7 +14,7 @@
 
 ----
 
-<img align="left" alt="NAUT" width="200" src="https://github.com/user-attachments/assets/5aab169c-a433-480e-84c6-989e97a1a890">
+<img align="left" alt="NAUT" width="250" src="https://github.com/user-attachments/assets/5aab169c-a433-480e-84c6-989e97a1a890">
 
 ## Overview of our Repository
 
